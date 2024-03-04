@@ -238,4 +238,3 @@ print("Result:", result)
 """Exercise 8. <br />
 Make a script out of all task and put it on GitHub
 """
-#test
